@@ -123,8 +123,8 @@
             'dev_requirement' => true,
         ),
         'codeception/module-webdriver' => array(
-            'pretty_version' => '2.0.x-dev',
-            'version' => '2.0.9999999.9999999-dev',
+            'pretty_version' => '2.0.4',
+            'version' => '2.0.4.0',
             'reference' => '8f555fa9037ac0f8dae62b2d6ced5cee31811b28',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeception/module-webdriver',
